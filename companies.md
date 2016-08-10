@@ -105,7 +105,7 @@ Seattle, Washington
 Suite 2000
 Seattle, WA 98121
 ```
-[forumone.com/](https://forumone.com/)
+[forumone.com](https://forumone.com/)
 
 Drupal, Wordpress
 
